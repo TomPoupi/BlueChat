@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlueChat</string>
+    <string name="new_devices">new devices</string>
+    <string name="paired_devices">paired devices</string>
+    <string name="enter_text_here">Enter Text Here</string>
+    <string name="send">SEND</string>
+</resources>
